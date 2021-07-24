@@ -1,7 +1,7 @@
 # ** ：べき乗　
 # round(変数（数値）,　小数桁数)
 
-import math
+import django
 
 # 平方根
 # res = math.sqrt(25)
@@ -11,4 +11,4 @@ import math
 # res = math.log2(4)
 # print(res)
 
-print(math.log(4))
+print(django.get_version())
