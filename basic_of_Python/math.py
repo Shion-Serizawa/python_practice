@@ -11,4 +11,4 @@ import math
 # res = math.log2(4)
 # print(res)
 
-print(help(math))
+print(math.log(4))
