@@ -20,7 +20,7 @@
 
 # print(s)
 
-# word = "python"
+word = "python"
 # print(word[0])
 # print(word[-1]) #リング構造みたいになっている。
 
